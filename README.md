@@ -1,5 +1,4 @@
-# OPF
-Optimized Procedural Framework for PHP 5.4+
-(with possibility to migrate on KPHP).
+# PHF
+Procedural Highload Framework for PHP 7+ with KPHP compatible code.
 
 ## In development...
